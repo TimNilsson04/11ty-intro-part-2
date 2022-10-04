@@ -28,9 +28,12 @@ console.log('Pickle Rickard');
 
 
 
-
-{% image "/img/Pickle_rick_transparent_edgetrimmed.webp", "Pickle", "400px", "auto" %}
+{% image "./src/img/Pickle_rick_transparent_edgetrimmed.webp", "photo of my spirit pickle", "(min-width: 30em) 50vw, 100vw" %}
 
 Source: Created by Robotortoise 
+
+{% image "./src/img/spirit_animal.jpg", "photo of my spirit pickle", "(min-width: 30em) 50vw, 100vw" %}
+
+
 
 
